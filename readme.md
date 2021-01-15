@@ -28,7 +28,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Passu to Sost || Karakoram Highway || Khan Ki Kahani](https://www.youtube.com/watch?v=4RgHqyCmuJc)
+- [Passu to Sost || Karakoram Highway || Khan Ki Kahani(2020)](https://www.youtube.com/watch?v=4RgHqyCmuJc)
 - [Passu Cones || Hunza || Gilgit Baltistan || Khan Ki Kahani](https://www.youtube.com/watch?v=47jLxcDqRFo)
 - [Attabad Lake || Hunza || Gilgit Baltistan || Khan Ki Kahani](https://www.youtube.com/watch?v=2K0bHMp4W1g)
 - [Story of Hunza || Hunza and Nagar || Baltit Fort || Khan Ki Kahani](https://www.youtube.com/watch?v=yp9HGxjgDNs)
