@@ -47,7 +47,7 @@
 </details>
 
 [website]: https://owais.rovermates.com
-[wpProject]: http://app.rovermates.com
+[wpProject]: http://www.rovermates.com
 [twitter]: https://twitter.com/OwaisKurt
 [youtube]: https://youtube.com/OwaisKurt
 [instagram]: https://instagram.com/OwaisKurt
