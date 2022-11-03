@@ -1,54 +1,112 @@
-### Hi there, I'm Owais - aka [Rahneverd][website] 👋
+<!--
+**rahneverd/rahneverd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-[![Website](https://img.shields.io/website?label=rahneverd.roverdevs.net&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://owais.rovermates.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/OwaisKurt?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FOwaisKurt&screen_name=OwaisKurt)
+Here are some ideas to get you started:
 
-## I'm a Student, Son, Developer, and Teacher!!
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
 
-- 🔭 I'm currently working on a WP Website: [Join World's Largest Travelers' Community!][wpProject]!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and travel
+### Hey there, I'm Hassan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px" width="25px">
 
+<p>I've worked on 100+ freelance projects. Some of them are uploaded here others were private so couldn't upload them for obvious reasons.<br>With a rich coding experience along with great problem solving ability, I can help clients bring their ideas to product. I am a dedicated programmer and always deliver my projects on time and with all the quality requirements.</p>
 
-### Connect with me:
+<div align="center">
+<p align="center">Let's connect!</p>
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+<a href="https://www.facebook.com/rahneverd/">
+    <img width="32" height="32" src="https://static.xx.fbcdn.net/rsrc.php/yD/r/d4ZIVX-5C-b.ico?_nc_eui2=AeFk0w9o7PzxtXwIY-CspdLRaBWfmC2eGbdoFZ-YLZ4Zt9hIvpQoJVF7mUsk4Az2p_oWB8MwKmvBv-YDMahkkg0Y" />
+</a>
 
-<br />
-<br />
+<a href="https://www.linkedin.com/in/evil-genius/">
+    <img width="32" height="32" src="https://static-exp1.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" />
+</a>
+<a href="https://t.me/rahneverd">
+    <img width="32" height="32" src="https://telegram.org/favicon.ico?3" />
+</a>
 
----
+<a href="mailto:786hassan777@gmail.com">
+    <img width="32" height="32" src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/gmail.ico" />
+</a>
+<a href="https://www.instagram.com/rahneverd/">
+    <img width="32" height="32" src="https://www.instagram.com/static/images/ico/apple-touch-icon-76x76-precomposed.png/666282be8229.png" />
+</a>
 
-### 📺 Latest YouTube Videos
+<a href="https://api.whatsapp.com/send?phone=923065855647">
+    <img width="32" height="32" src="https://web.whatsapp.com/favicon-64x64.ico" />
+</a>
 
-<!-- YOUTUBE:START -->
-- [Passu to Sost || Karakoram Highway || Khan Ki Kahani(2020)](https://www.youtube.com/watch?v=4RgHqyCmuJc)
-- [Passu Cones || Hunza || Gilgit Baltistan || Khan Ki Kahani](https://www.youtube.com/watch?v=47jLxcDqRFo)
-- [Attabad Lake || Hunza || Gilgit Baltistan || Khan Ki Kahani](https://www.youtube.com/watch?v=2K0bHMp4W1g)
-- [Story of Hunza || Hunza and Nagar || Baltit Fort || Khan Ki Kahani](https://www.youtube.com/watch?v=yp9HGxjgDNs)
-- [https://www.youtube.com/watch?v=yvzwDN91YGc](https://www.youtube.com/watch?v=bFVkKi2Fgjk)
-<!-- YOUTUBE:END -->
+<!-- <a href="https://www.fiverr.com/muhammadhassan7">
+    <img width="32" height="32" src="https://npm-assets.fiverrcdn.com/assets/layout/favicon-32x32.3ac9a80.png" />
+</a> -->
 
-➡️ [more videos...](https://youtube.com/rahneverd)
+<a href="https://www.upwork.com/freelancers/muhammadhassan82">
+    <img width="32" height="32" src="https://raw.githubusercontent.com/rahneverd/rahneverd/main/upwork.ico" />
+</a>
+</div>
 
----
+<br>
 
+### A CS graduate, Developer & Freelancer
 
-  <summary>:zap: GitHub Stats</summary>
+<img align="right" alt="GIF" src="code.gif" width="500" height="320" />
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.owaiskurt.vercel.app/api?username=owaiskurt&show_icons=true&hide_border=true" />
+#### Talking about my personal stuff:
 
-</details>
+- 🙋‍♂️ Top-Rated Freelancer at Upwork
+- ⚡ Data Scraping/Web automation
+- 💻 Android/Windows/Web dev
+- 📑 CS Graduate from Air University, Islamabad.
+- 💪 Conducted multiple <a href="https://raw.githubusercontent.com/rahneverd/rahneverd/main/Screenshot_1.png">workshops</a> on Freelancing @ Upwork
 
-[website]: https://owais.roverdevs.net
-[wpProject]: http://www.rovermates.com
-[twitter]: https://twitter.com/OwaisKurt
-[youtube]: https://youtube.com/OwaisKurt
-[instagram]: https://instagram.com/OwaisKurt
-[linkedin]: https://linkedin.com/in/OwaisKurt
+### My skills 🛠
+
+👉 Data Scraping (Python/bs4/Requests)<br>
+👉 Web Automation (Python/C#/Selenium)<br>
+👉 Android Automation (Python/C#/Appium)<br>
+👉 Android Apps (Java/XML)<br>
+👉 Windows desktop Apps (WPF/C#/XAML)<br>
+👉 Web Apps (MEAN Stack)<br>
+👉 API Development (FastAPI/Flask)<br>
+<br>
+👉 Multithreaded code<br>
+👉 Output in JSON/CSV/Excel<br>
+👉 Clean and efficient<br>
+👉 Commented and prettified to help you understand<br>
+👉 Parsing data and APIs<br>
+👉 C++<br>
+👉 Cyber security<br>
+👉 Web pentesting/hacking<br>
+👉 Reverse Engineering<br>
+<br>
+
+<!--https://github.com/alexandresanlim/Badges4-README.md-Profile/blob/master/README.md-->
+<div align="center">
+    <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" />
+    <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white" />
+    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />    
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />    
+    <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+    <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
+    <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+</div>
+<br>
+<summary>📝 My GitHub Stats</summary>
+<br>
+
+![Hassan's github stats](https://github-readme-stats.vercel.app/api?username=rahneverd&theme=gotham&show_icons=true&include_all_commits=true&)
+<br>
+<img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahneverd&layout=compact&theme=gotham&count_private=true&include_all_commits=true" />
+<br><br>
+Open Source Contributor from <b>Pakistan<b> 💚
+<br><br>
+![](https://visitor-badge.glitch.me/badge?page_id=rahneverd.rahneverd)
+<br>
