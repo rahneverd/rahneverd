@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hey there, I'm Hassan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px" width="25px">
+### Hey there, I'm Owais <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px" width="25px">
 
 <p>I've worked on 100+ freelance projects. Some of them are uploaded here others were private so couldn't upload them for obvious reasons.<br>With a rich coding experience along with great problem solving ability, I can help clients bring their ideas to product. I am a dedicated programmer and always deliver my projects on time and with all the quality requirements.</p>
 
@@ -31,7 +31,7 @@ Here are some ideas to get you started:
     <img width="32" height="32" src="https://telegram.org/favicon.ico?3" />
 </a>
 
-<a href="mailto:786hassan777@gmail.com">
+<a href="mailto:rahneverd@gmail.com">
     <img width="32" height="32" src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/gmail.ico" />
 </a>
 <a href="https://www.instagram.com/rahneverd/">
@@ -42,7 +42,7 @@ Here are some ideas to get you started:
     <img width="32" height="32" src="https://web.whatsapp.com/favicon-64x64.ico" />
 </a>
 
-<!-- <a href="https://www.fiverr.com/muhammadhassan7">
+<!-- <a href="https://www.fiverr.com/rahneverd">
     <img width="32" height="32" src="https://npm-assets.fiverrcdn.com/assets/layout/favicon-32x32.3ac9a80.png" />
 </a> -->
 
