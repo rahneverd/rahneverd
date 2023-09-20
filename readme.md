@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ### Hey there, I'm Owais <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px" width="25px">
 
-<p>I've worked on 12+ freelance projects. Some of them are uploaded here others were private so couldn't upload them for obvious reasons.<br>With a rich coding experience along with great problem solving ability, I can help clients bring their ideas to products. I am a dedicated programmer and always deliver my projects on time and with all the quality requirements.</p>
+<p>I've worked on 12+ freelance projects, Data Science Web Solutions, Hospital Management System, Real Time Airline Tickets Serching Platform and School Management System. Some of them are uploaded here others were private so couldn't upload them for obvious reasons.<br><br>With a rich coding experience along with great problem solving ability, I can help clients bring their ideas to products. I am a dedicated programmer and always deliver my projects on time and with all the quality requirements.</p>
 
 <div align="center">
 <p align="center">Let's connect!</p>
@@ -59,11 +59,11 @@ Here are some ideas to get you started:
 
 #### Talking about my personal stuff:
 
-- 🙋‍♂️ Top-Rated Freelancer at Upwork
+- 🙋‍♂️ AngularJS Software Engineer
 - ⚡ Data Scraping/Web automation
-- 💻 Android/Windows/Web dev
-- 📑 CS Graduate from Air University, Islamabad.
-- 💪 Conducted multiple <a href="https://raw.githubusercontent.com/rahneverd/rahneverd/main/Screenshot_1.png">workshops</a> on Freelancing @ Upwork
+- 💻 JS/TS Web dev
+- 📑 Sertified JS Developer - UDEMY.
+- 💪 Created Real Time Airline Tickets Serching Platform
 
 ### My skills 🛠
 
