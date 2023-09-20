@@ -67,22 +67,17 @@ Here are some ideas to get you started:
 
 ### My skills 🛠
 
-👉 Data Scraping (Python/bs4/Requests)<br>
-👉 Web Automation (Python/C#/Selenium)<br>
-👉 Android Automation (Python/C#/Appium)<br>
-👉 Android Apps (Java/XML)<br>
-👉 Windows desktop Apps (WPF/C#/XAML)<br>
-👉 Web Apps (MEAN Stack)<br>
-👉 API Development (FastAPI/Flask)<br>
+👉 Front End (JS/TS/AngularJS/ReactJS)<br>
+👉 Back End (JS/TS/ExpressJS/NestJS)<br>
+👉 Web Apps (Full Stack) (MEAN Stack)<br>
+👉 API Development (RestAPI/ExpressJS/NestJS)<br>
 <br>
 👉 Multithreaded code<br>
 👉 Output in JSON/CSV/Excel<br>
 👉 Clean and efficient<br>
 👉 Commented and prettified to help you understand<br>
 👉 Parsing data and APIs<br>
-👉 C++<br>
 👉 Cyber security<br>
-👉 Web pentesting/hacking<br>
 👉 Reverse Engineering<br>
 <br>
 
