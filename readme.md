@@ -83,7 +83,7 @@ Here are some ideas to get you started:
 
 <!--https://github.com/alexandresanlim/Badges4-README.md-Profile/blob/master/README.md-->
 <div align="center">
-    <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" />
+    <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angularjs&logoColor=white" />
     <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white" />
     <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
     <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />    
