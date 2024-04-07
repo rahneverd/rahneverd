@@ -1,121 +1,58 @@
-<!--
-**rahneverd/rahneverd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm Muhammad Owais Nizami</h1>
+<h3 align="center">A passionate full stack developer from Pakistan</h3>
 
-Here are some ideas to get you started:
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rahneverd&label=Profile%20views&color=761f9e&style=flat" alt="rahneverd" /> </p>
 
-- 🔭 I’m currently working on <a href="https://github.com/rahneverd/angular-weather-app-v2"> Angular Weather pp v2.0 </a>
-- 🌱 I’m currently learning <a href="https://angularjs.org/">AngularJS</a>
-- 👯 I’m looking to collaborate on <a href="https://angularjs.org/">AngularJS</a> Projects
-- 🤔 I’m looking for help with <a href="https://react.dev/">ReactJS </a>
-- 💬 Ask me about <a href="https://angularjs.org/">AngularJS</a>, <a href="[https://angularjs.org/](https://pptr.dev/)">Puppeteer</a>
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rahneverd" alt="rahneverd" /></a> </p>
 
-### Hey there, I'm Owais <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px" width="25px">
+- 🌱 I’m currently learning **React, Nextjs**
 
-<p>I've worked on 12+ freelance projects, Data Science Web Solutions, Hospital Management System, Real Time Airline Tickets Serching Platform and School Management System. Some of them are uploaded here others were private so couldn't upload them for obvious reasons.<br><br>With a rich coding experience along with great problem solving ability, I can help clients bring their ideas to products. I am a dedicated programmer and always deliver my projects on time and with all the quality requirements.</p>
+- 📫 How to reach me **rahneverd@gmail.com**
 
-<div align="center">
-<p align="center">Let's connect!</p>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/rahneverd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rahneverd" height="30" width="40" /></a>
+</p>
 
-<a href="https://www.facebook.com/rahneverd/">
-    <img width="32" height="32" src="https://static.xx.fbcdn.net/rsrc.php/yD/r/d4ZIVX-5C-b.ico?_nc_eui2=AeFk0w9o7PzxtXwIY-CspdLRaBWfmC2eGbdoFZ-YLZ4Zt9hIvpQoJVF7mUsk4Az2p_oWB8MwKmvBv-YDMahkkg0Y" />
-</a>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> 
 
-<a href="https://www.linkedin.com/in/mowaisnizami/">
-    <img width="32" height="32" src="https://static-exp1.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" />
-</a>
-<a href="https://t.me/rahneverd">
-    <img width="32" height="32" src="https://telegram.org/favicon.ico?3" />
-</a>
+<a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> 
 
-<a href="mailto:rahneverd@gmail.com">
-    <img width="32" height="32" src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/gmail.ico" />
-</a>
-<a href="https://www.instagram.com/rahneverd/">
-    <img width="32" height="32" src="https://www.instagram.com/static/images/ico/apple-touch-icon-76x76-precomposed.png/666282be8229.png" />
-</a>
+<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
 
-<a href="https://api.whatsapp.com/send?phone=923379213529">
-    <img width="32" height="32" src="https://web.whatsapp.com/favicon-64x64.ico" />
-</a>
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
 
-<!-- <a href="https://www.fiverr.com/rahneverd">
-    <img width="32" height="32" src="https://npm-assets.fiverrcdn.com/assets/layout/favicon-32x32.3ac9a80.png" />
-</a> -->
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
 
-<a href="https://www.upwork.com/freelancers/~011e30d05b7dc6bf09">
-    <img width="32" height="32" src="https://raw.githubusercontent.com/rahneverd/rahneverd/main/upwork.ico" />
-</a>
-</div>
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
 
-<br>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 
-### A CS graduate, Developer & Freelancer
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
 
-<img align="right" alt="GIF" src="code.gif" width="500" height="320" />
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
 
-#### Talking about my personal stuff:
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
 
-- 🙋‍♂️ AngularJS Software Engineer
-- ⚡ Data Scraping/Web automation
-- 💻 JS/TS Web dev
-- 📑 Sertified JS Developer - UDEMY.
-- 💪 Created Real Time Airline Tickets Serching Platform
+<a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> 
 
-### My skills 🛠
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 
-👉 Front End (JS/TS/AngularJS/ReactJS)<br>
-👉 Back End (JS/TS/ExpressJS/NestJS)<br>
-👉 Web Apps (Full Stack) (MEAN Stack)<br>
-👉 API Development (RestAPI/ExpressJS/NestJS)<br>
-<br>
-👉 Multithreaded code<br>
-👉 Output in JSON/CSV/Excel<br>
-👉 Clean and efficient<br>
-👉 Commented and prettified to help you understand<br>
-👉 Parsing data and APIs<br>
-👉 Cyber security<br>
-👉 Reverse Engineering<br>
-<br>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
 
-<!--https://github.com/alexandresanlim/Badges4-README.md-Profile/blob/master/README.md-->
-<div align="center">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" />
-    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-    <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-    <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" /> 
-    <img src="https://img.shields.io/badge/Puppeteer-40B5A4?style=for-the-badge&logo=puppeteer&logoColor=white" />
-    <img src="https://img.shields.io/badge/AngularJS-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
-    <br><br>
-    <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=mui&logoColor=white" />
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-    <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
-    
+ <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a>
+ 
+ <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> 
+ 
+ <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
+ 
+ <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
+ 
+ <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahneverd&show_icons=true&locale=en&layout=compact" alt="rahneverd" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rahneverd&show_icons=true&locale=en" alt="rahneverd" /></p>
 
-<!--
-    <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white" />
-    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />    
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />    
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-    <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
-    <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-    -->
-</div>
-<br>
-<summary>📝 My GitHub Stats</summary>
-<br>
-
-![Hassan's github stats](https://github-readme-stats.vercel.app/api?username=rahneverd&theme=gotham&show_icons=true&include_all_commits=true&)
-<br>
-<img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahneverd&layout=compact&theme=gotham&count_private=true&include_all_commits=true" />
-<br><br>
-Open Source Contributor from <b>Pakistan<b> 💚
-<br><br>
-![](https://visitor-badge.glitch.me/badge?page_id=rahneverd.rahneverd)
-<br>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahneverd&" alt="rahneverd" /></p>
