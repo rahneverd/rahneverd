@@ -27,6 +27,4 @@
 | <a href="https://github.com/rahneverd"><img align="center" src="https://github-readme-stats-test-ten-gamma.vercel.app/api?show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Rahneverd's github stats" /></a> | <a href="https://github.com/rahneverd"><img align="center" src="https://github-readme-stats-test-ten-gamma.vercel.app/api/top-langs/?layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
-https://github-readme-stats-test-ten-gamma.vercel.app/api?
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahneverd&" alt="rahneverd" /></p>
