@@ -30,6 +30,8 @@
 <!---| <a href="https://github.com/rahneverd"><img align="center" src="https://github-readme-stats-test-ten-gamma.vercel.app/api" alt="Rahneverd's github stats" /></a> | <a href="https://github.com/rahneverd"><img align="center" src="https://github-readme-stats-test-ten-gamma.vercel.app/api/top-langs/?layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- | --->
 
-<img align="center" src="https://github-readme-streak-stats-one-puce.vercel.app/?user=rahneverd" alt="rahneverd">
+<img align="center" src="https://github-readme-streak-stats-7c1cedvnl.vercel.app/?user=rahneverd&" alt="rahneverd">
+
+<!--- <img align="center" src="https://github-readme-streak-stats-one-puce.vercel.app/?user=rahneverd" alt="rahneverd"> --->
 
 <!--- <p><img align="center" src="https://github-readme-streak-stats-7c1cedvnl.vercel.app/?user=rahneverd&" alt="rahneverd" /></p> --->
