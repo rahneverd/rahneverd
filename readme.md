@@ -24,7 +24,7 @@
 
  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rahneverd&show_icons=true&locale=en" alt="rahneverd" /></p> --->
 
- | <a href="https://github.com/rahneverd"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahneverd&show_icons=true&locale=en&layout=compact" alt="Rahneverd's github stats" /></a> | <a href="https://github.com/rahneverd"><img align="center" src="https://github-readme-stats-test-ten-gamma.vercel.app/api/top-langs/?layout=compact&theme=buefy&hide_border=true" /></a> |
+ | <a href="https://github.com/rahneverd"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahneverd&show_icons=true&locale=en&layout=compact" alt="Rahneverd's github stats" /></a> | <a href="https://github.com/rahneverd"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahneverd&show_icons=true&locale=en&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 | <a href="https://github.com/rahneverd"><img align="center" src="https://github-readme-stats-test-ten-gamma.vercel.app/api" alt="Rahneverd's github stats" /></a> | <a href="https://github.com/rahneverd"><img align="center" src="https://github-readme-stats-test-ten-gamma.vercel.app/api/top-langs/?layout=compact&theme=buefy&hide_border=true" /></a> |
